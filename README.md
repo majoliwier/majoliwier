@@ -1,6 +1,6 @@
 ### Hi there 
 
-[My website](majoliwier.github.io)  :beetle:
+[My website](https://majoliwier.github.io/)  :beetle:
 
 - 🔭 I’m currently working on [MontePyton](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/MontePyton). 
 - 🌱 I’m currently learning C.
