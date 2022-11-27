@@ -1,5 +1,7 @@
 ### Hi there 
 
+<a href="https://majoliwier.github.io" target="_blank">My website</a>
+
 [My website](https://majoliwier.github.io/)  :beetle:
 
 - 🔭 I’m currently working on [MontePyton](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/MontePyton). 
