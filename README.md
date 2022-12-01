@@ -1,6 +1,5 @@
 ### Hi there 
 
-<a href="https://majoliwier.github.io" target="_blank">My website</a>
 
 [My website](https://majoliwier.github.io/)  :beetle:
 
